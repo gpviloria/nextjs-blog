@@ -18,6 +18,9 @@ export default function Home() {
           hard work is finally showing me the glimpse of my goals. 
         </p>
         <p>
+          I know now how to update my website.
+        </p>
+        <p>
           We are trying to build a sample website using:{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
         </p>

@@ -9,13 +9,18 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <h2><b>My impression of the first month as a CPE third year student.</b></h2>
+        <h2><b>10 Things That Require Zero Talent</b></h2>
         <p>
-          I find it very challenging with my very hectic schedule. Not enough time
-          to do all my activities on time because of other chores. 
-          Inspite of it all, I find it very fulfilling. I am very happy
-          that I reached this year. This simply means that my dedication and
-          hard work is finally showing me the glimpse of my goals. 
+        1. Being On Time
+        2. Making An Effort
+        3. Being High Energy
+        4. Having A Positive Attitude
+        5. Being Passionate
+        6. Using Good Body Language
+        7. Being Coachable
+        8. Doing A Little Extra
+        9. Being Prepared
+        10. Having A Strong Work Ethic
         </p>
         <p>
           I know now how to update my website.

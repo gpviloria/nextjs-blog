@@ -12,19 +12,29 @@ export default function Home() {
         <h2><b>10 Things That Require Zero Talent</b></h2>
         <p>
         1. Being On Time
-        2. Making An Effort
-        3. Being High Energy
-        4. Having A Positive Attitude
-        5. Being Passionate
-        6. Using Good Body Language
-        7. Being Coachable
-        8. Doing A Little Extra
-        9. Being Prepared
-        10. Having A Strong Work Ethic
         </p>
         <p>
-          I know now how to update my website.
+        2. Making An Effort
         </p>
+        3. Being High Energy
+        <p>
+        4. Having A Positive Attitude
+        </p>
+        5. Being Passionate
+        <p>
+        6. Using Good Body Language
+        </p>
+        7. Being Coachable
+        <p>
+        8. Doing A Little Extra
+        </p>
+        <p>
+        9. Being Prepared
+        </p>
+        10. Having A Strong Work Ethic
+        </p>
+          
+        
         <p>
           We are trying to build a sample website using:{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.

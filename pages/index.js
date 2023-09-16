@@ -14,7 +14,7 @@ export default function Home() {
         <br>
         <p>•	2. Making An Effort</p>
         <br>
-        <p>•	3. Being High Energy<p>
+        <p>•	3. Being High Energy</p>
         <br>
         <p>•	4. Having A Positive Attitude</p> 
         <br>

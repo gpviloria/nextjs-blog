@@ -20,7 +20,7 @@ export default function Home() {
         <p>	8. Doing A Little Extra</p> 
         <p>	9. Being Prepared</p>
         <p>	10. Having A Strong Work Ethic</p>
-        <br></br>
+        <br>
         <p>
           This is a sample website using:{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.

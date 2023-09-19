@@ -9,21 +9,17 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <h2><b>10 Things That Require Zero Talent</b></h2>
-        <p> •	1. Being On Time</p>
-        <p> •	2. Making An Effort</p>
-        <p> •	3. Being High Energy</p>
-        <p> •	4. Having A Positive Attitude</p> 
-        <p>	•	5. Being Passionate</p>
-        <p>	•	6. Using Good Body Language</p>
-        <p>	•	7. Being Coachable</p>
-        <p>	•	8. Doing A Little Extra</p> 
-        <p>	•	9. Being Prepared</p>
-        <p>	•	10. Having A Strong Work Ethic</p>
+        <h2><b>Manifesto for Agile Software Development</b></h2>
         <br>
+        <p> We are uncovering better ways of developingt software by doing it and helping otgher do it.
+          Through this work we have come to value:
+        </p>
+        <p>Individuls and interactions over process and tools <h1> Working software over 
+          comprehensive documentation Customer collaboartion over contract negotiation
+            Responding to change over following a plan</p>
+        
         <p>
-          This is a sample website using:{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
+          That is, while there is value in the items on the right, we value the items on the left more. 
         </p>
       </section>
     </Layout>

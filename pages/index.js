@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <h2><b>Manifesto for Agile Software Development</b></h2>
-        <br>
+      
         <p> We are uncovering better ways of developingt software by doing it and helping otgher do it.
           Through this work we have come to value:
         </p>

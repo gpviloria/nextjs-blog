@@ -17,7 +17,6 @@ export default function Home() {
         <p>Individuls and interactions over process and tools <h1> Working software over 
           comprehensive documentation Customer collaboartion over contract negotiation
             Responding to change over following a plan</p>
-        
         <p>
           That is, while there is value in the items on the right, we value the items on the left more. 
         </p>

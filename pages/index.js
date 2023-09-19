@@ -14,7 +14,7 @@ export default function Home() {
         <p> We are uncovering better ways of developingt software by doing it and helping otgher do it.
           Through this work we have come to value:
         </p>
-        <p>Individuls and interactions over process and tools <h1> Working software over 
+        <p>Individuls and interactions over process and tools Working software over 
           comprehensive documentation Customer collaboartion over contract negotiation
             Responding to change over following a plan</p>
         <p>
